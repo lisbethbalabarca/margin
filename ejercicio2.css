@@ -1,0 +1,35 @@
+.uno{
+	width: 200px;
+	height: 210px;
+	border:solid;
+	padding: 10px;
+	border-color: orange;
+	margin-bottom: 20px;
+	margin-left: 10px;
+
+}
+.dos{
+	width: 200px;
+	height: 210px;
+	border:solid;
+	padding: 10px;
+	border-color: orange;
+	margin-bottom: 20px;
+	margin-left: 10px;
+
+}
+.tres{
+	width: 200px;
+	height: 210px;
+	border:solid;
+	padding: 10px;
+	border-color: orange;
+	margin-left: 10px;
+
+
+}
+*{
+	font-size: 14px;	
+	line-height: 20px;
+}
+

@@ -1,0 +1,28 @@
+.uno{
+	width: 200px;
+	height: 210px;
+	border:solid;
+	 
+	border-color: orange;
+}
+.dos{
+	width: 200px;
+	height: 210px;
+	border:solid;
+ 
+	border-color: orange;
+
+}
+.tres{
+	width: 200px;
+	height: 210px;
+	border:solid;
+	 
+	border-color: orange;
+
+
+}
+*{
+	font-size: 14px;	
+	line-height: 20px;
+}
